@@ -19,7 +19,7 @@
         "typo3/cms-core": ">=6.2.0,<=8.2.1"
     },
     "replace": {
-        "context-loader": "self.version",
+        "context_loader": "self.version",
         "typo3-ter/context-loader": "self.version"
     }
 }
