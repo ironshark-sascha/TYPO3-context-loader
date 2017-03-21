@@ -1,5 +1,5 @@
 {
-    "name": "ironshark/context-loader",
+    "name": "ironshark/context_loader",
     "type": "typo3-cms-extension",
     "description": "Context configuration loader for TYPO3 (TYPO3_CONTEXT)",
     "homepage": "https://github.com/webdevops/TYPO3-context-loader",
